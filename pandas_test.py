@@ -11,3 +11,4 @@ df1 = df1.append(se, columns)
 se = pd.Series(['LINEから送った画像を文字起こししてくれるアプリを作るときのメモ①', '	https://review-of-my-life.blogspot.com/2018/03/moji-okosi-1.html'], columns) 
 df1 = df1.append(se, columns)
 df1
+print(df1)
